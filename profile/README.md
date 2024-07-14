@@ -1,8 +1,11 @@
-# Ekobis.net 🌐
+
+
 
 <p align="center">
-  <img src="ekobis-notext.png" width="250">
+  <img src="ekobisnewLogo.png" width="250">
 </p>
+
+# Ekobis.net 🌐
 
 Ekobis.net is an open-source, non-profit volunteer project focused on solving pre-accounting problems. This project aims to assist SMEs and individual users in accurately calculating their income, expenses, and balances using simple formulas.
 
@@ -13,10 +16,6 @@ Ekobis.net aims to provide users with a reliable and easy-to-use accounting solu
 ---
 
 # Ekobis.net 🌐
-
-<p align="center">
-  <img src="ekobis-notext.png" width="250">
-</p>
 
 Ekobis.net, ön muhasebe sorunlarına çözüm odaklı, açık kaynak kodlu ve kar amacı gütmeyen bir gönüllülük projesidir. Bu proje, KOBİ'lere ve bireysel kullanıcılara basit formüller kullanarak gelir, gider ve denge hesaplamalarını doğru bir şekilde yapmalarına yardımcı olmayı amaçlar.
 
